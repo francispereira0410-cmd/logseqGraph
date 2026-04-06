@@ -1,0 +1,125 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/parent 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/uuid #uuid "69a0ba15-b73d-4067-8441-4204036dbd39"} 
+{:block/created-at 1772145041672
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "69a0ba15-b73d-4067-8441-4204036dbd39"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.835968017578125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a491b20-1359-11f1-8005-0527bbcad646"
+:noFill false
+:point [488 296]
+:parentId "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"
+:collapsedHeight 0
+:nonce 1772141071829}}
+:block/updated-at 1772145041672} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69a0ba15-b73d-4067-8441-4204036dbd39"}
+:block/parent 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/uuid #uuid "69a0bb86-58a1-46d0-b23d-0c8bc52a69c2"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69a0bb86-58a1-46d0-b23d-0c8bc52a69c2"}
+:block/parent 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/uuid #uuid "69a0c23b-820c-49cd-8620-0a5d98b25cc0"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69a0c23b-820c-49cd-8620-0a5d98b25cc0"}
+:block/parent 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/uuid #uuid "69a0c404-66a2-49e5-a819-91d14e7523b0"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69a0c404-66a2-49e5-a819-91d14e7523b0"}
+:block/parent 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/uuid #uuid "69a0cc3e-5b9a-40dc-937c-63cc7bb1c03b"} 
+{:block/content "logseq://graph/.logseq?page=Logseq%20File%20Sync%20(highlights)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69a0cc3e-5b9a-40dc-937c-63cc7bb1c03b"}
+:block/parent 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/properties 
+{}
+:block/uuid #uuid "69a18bf0-07a2-41df-adb3-9e5e62faeb04"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69a18bf0-07a2-41df-adb3-9e5e62faeb04"}
+:block/parent 
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"}
+:block/properties 
+{}
+:block/uuid #uuid "69a18c52-67dd-4a33-8c26-7cbd0c3c0d3c"} 
+{:block/created-at 1772194929323
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "69a18c52-67dd-4a33-8c26-7cbd0c3c0d3c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.835968017578125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dc83cbb0-13d6-11f1-98f2-3177fbcd0008"
+:noFill false
+:point [-1360 464]
+:parentId "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"
+:collapsedHeight 0
+:nonce 1772194896883}}
+:block/updated-at 1772194929323})
+:pages (
+{:block/uuid #uuid "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "69a0b9ab-9e45-4bd8-b63e-8c9403002ea9"
+:name "pkm"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("8a491b20-1359-11f1-8005-0527bbcad646" "dc83cbb0-13d6-11f1-98f2-3177fbcd0008")}}
+:block/updated-at 1772194929322
+:block/created-at 1772140971555
+:block/type "whiteboard"
+:block/name "pkm"
+:block/original-name "pkm"})}
